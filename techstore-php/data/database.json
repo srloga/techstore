@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Headphones Premium Wireless Noise Cancelling",
+        "price": 299.99,
+        "oldPrice": 349.99,
+        "image": "\/images\/headphones.jpg",
+        "category": "\u00c1udio",
+        "rating": 4.8,
+        "isSale": true,
+        "description": "Headphones premium com cancelamento de ru\u00eddo ativo"
+    },
+    {
+        "id": 2,
+        "name": "Smartwatch Series 7 Pro Edition",
+        "price": 399,
+        "image": "\/images\/smartwatch.jpg",
+        "category": "Wearables",
+        "rating": 4.9,
+        "isNew": true,
+        "description": "Smartwatch com tela AMOLED e bateria de 7 dias"
+    },
+    {
+        "id": 3,
+        "name": "C\u00e2mera Mirrorless 4K Professional",
+        "price": 1299,
+        "oldPrice": 1499,
+        "image": "\/images\/camera.jpg",
+        "category": "Fotografia",
+        "rating": 4.7,
+        "isSale": true,
+        "description": "C\u00e2mera mirrorless profissional com grava\u00e7\u00e3o 4K"
+    },
+    {
+        "id": 4,
+        "name": "Laptop Ultra Slim Developer Edition",
+        "price": 1899,
+        "image": "\/images\/laptop.jpg",
+        "category": "Computadores",
+        "rating": 5,
+        "isNew": true,
+        "description": "Laptop ultraslim com processador de \u00faltima gera\u00e7\u00e3o"
+    },
+    {
+        "id": 5,
+        "name": "VR Headset Pro X",
+        "price": 599,
+        "image": "\/images\/vr-headset.jpg",
+        "category": "Gaming",
+        "rating": 4.6,
+        "description": "Headset VR de realidade virtual com resolu\u00e7\u00e3o 4K"
+    },
+    {
+        "id": 6,
+        "name": "Drone 4K Professional",
+        "price": 799,
+        "image": "\/images\/drone.jpg",
+        "category": "Drones",
+        "rating": 4.5,
+        "description": "Drone profissional com c\u00e2mera 4K e bateria de 30 minutos"
+    }
+]
