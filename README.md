@@ -1,5 +1,7 @@
 # TechStore - E-commerce em HTML, CSS, JavaScript e PHP
 
+![Banner](techstore/techstore/techstore.jpg)
+
 Uma loja online completa e funcional desenvolvida com HTML, CSS, JavaScript e PHP. Inclui todas as funcionalidades essenciais de um e-commerce moderno.
 
 ## 🚀 Características
